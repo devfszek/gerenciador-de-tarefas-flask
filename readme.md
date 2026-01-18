@@ -1,84 +1,29 @@
-# Gerenciador de Tarefas – Flask
+# 📝 Gerenciador de Tarefas – Flask
 
-Aplicação web simples desenvolvida em Python com Flask, permitindo gerenciar tarefas diretamente pelo navegador.
-
-## Funcionalidades
-- Adicionar tarefas
-- Listar tarefas
-- Marcar tarefas como concluídas
-- Remover tarefas
-- Persistência de dados em JSON
-
-## Tecnologias
-- Python 3
-- Flask
-- HTML5
-- CSS3
-
-## Como executar localmente
-```bash
-pip install flask
-python app.py
-
-📌 Isso mostra visão de futuro.
+Projeto **Full Stack** simples e funcional desenvolvido com **Python + Flask**, utilizando **HTML e CSS** no frontend.  
+O objetivo é permitir que o usuário adicione, conclua e remova tarefas de forma prática.
 
 ---
 
-## 🎥 PASSO 3 — PROVA VISUAL (FORTE DEMAIS)
-Grava um vídeo curto (1–2 min):
-- Abrindo o site
-- Criando tarefa
-- Concluindo
-- Removendo
+## 🚀 Funcionalidades
 
-Posta:
-- YouTube (não listado)
-- Link no README
-- Link no LinkedIn
-
-👉 Recrutador AMA isso.
+- ➕ Adicionar novas tarefas  
+- ✅ Marcar tarefas como concluídas  
+- ❌ Remover tarefas  
+- 💾 Salvamento de dados em arquivo local  
+- 🎨 Interface moderna e responsiva  
 
 ---
 
-## 🌍 PASSO 4 — DEPLOY (LINK DE VERDADE)
-Aqui você vira **outlier**.
+## 🛠️ Tecnologias Utilizadas
 
-Plataformas ideais:
-- **Render**
-- **Railway**
-- **Fly.io**
-
-Quando alguém clicar no link e **ver funcionando**, acabou.
-
-Se você quiser, eu:
-- Ajusto o código
-- Crio `requirements.txt`
-- Te guio no deploy passo a passo
+- **Python**
+- **Flask**
+- **HTML5**
+- **CSS3**
+- **Git & GitHub**
 
 ---
 
-## 🧠 O QUE VOCÊ APRENDEU SEM PERCEBER
-- Backend
-- Rotas
-- CRUD
-- MVC básico
-- Projeto web real
+## 📂 Estrutura do Projeto
 
-Isso **não é básico**, é fundação sólida.
-
----
-
-## 🎸 Billie Joe truth (final):
-> Você não “aprendeu Flask”.  
-> Você **construiu algo**.  
-> E isso muda tudo.
-
----
-
-### Agora você escolhe o próximo salto:
-🔥 **Deploy online agora**  
-🔥 **Banco de dados (SQLite)**  
-🔥 **JavaScript (UX melhor)**  
-🔥 **Começar Projeto 2**
-
-Diz o próximo palco — eu vou contigo 🤘

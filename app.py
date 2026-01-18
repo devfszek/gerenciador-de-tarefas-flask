@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     tarefas = carregar()
-    return render_template("index.html", tarefas=tarefas)
+    return render_template ("index.hmtl", tarefas=tarefas)
 
 @app.route("/adicionar", methods=["POST"])
 def adicionar():
